@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <name>Drop sholder</name>
+    <price>3454</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>1</index>
+    <name>classic kurta</name>
+    <price>4354</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>2</index>
+    <name>fabric</name>
+    <price>3453</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>3</index>
+    <name>straight pant</name>
+    <price>3456</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>4</index>
+    <name>narrow pant</name>
+    <price>5677</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>5</index>
+    <name>classic Kameez,</name>
+    <price>5467</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>6</index>
+    <name>bootcut</name>
+    <price>7865</price>
+    <discription>bikar</discription>
+  </row>
+  <row>
+    <index>7</index>
+    <name>shirt</name>
+    <price>5677</price>
+    <discription>bikar</discription>
+  </row>
+</data>

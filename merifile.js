@@ -1,0 +1,1 @@
+{"name":{"0":"Drop sholder","1":"classic kurta","2":"fabric","3":"straight pant","4":"narrow pant","5":"classic Kameez,","6":"bootcut","7":"shirt"},"price":{"0":3454,"1":4354,"2":3453,"3":3456,"4":5677,"5":5467,"6":7865,"7":5677},"discription":{"0":"bikar","1":"bikar","2":"bikar","3":"bikar","4":"bikar","5":"bikar","6":"bikar","7":"bikar"}}

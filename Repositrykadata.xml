@@ -1,0 +1,1003 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Commitername>Daniel McNamara</Commitername>
+    <commiterDate>first Kaggle API commit</commiterDate>
+    <Massege>first Kaggle API commit</Massege>
+  </row>
+  <row>
+    <index>1</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Adding documentation</commiterDate>
+    <Massege>Adding documentation</Massege>
+  </row>
+  <row>
+    <index>2</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Fixing character escapes in Readme</commiterDate>
+    <Massege>Fixing character escapes in Readme</Massege>
+  </row>
+  <row>
+    <index>3</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Updating directory references</commiterDate>
+    <Massege>Updating directory references</Massege>
+  </row>
+  <row>
+    <index>4</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Updating installation info</commiterDate>
+    <Massege>Updating installation info</Massege>
+  </row>
+  <row>
+    <index>5</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Print warning message if user has unsafe permissions on api key</commiterDate>
+    <Massege>Print warning message if user has unsafe permissions on api key</Massege>
+  </row>
+  <row>
+    <index>6</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions</commiterDate>
+    <Massege>Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions</Massege>
+  </row>
+  <row>
+    <index>7</index>
+    <Commitername>Daniel McNamara</Commitername>
+    <commiterDate>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems</commiterDate>
+    <Massege>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems</Massege>
+  </row>
+  <row>
+    <index>8</index>
+    <Commitername>Daniel McNamara</Commitername>
+    <commiterDate>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md</commiterDate>
+    <Massege>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md</Massege>
+  </row>
+  <row>
+    <index>9</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</commiterDate>
+    <Massege>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</Massege>
+  </row>
+  <row>
+    <index>10</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>preparing Python package for release on PyPi</commiterDate>
+    <Massege>preparing Python package for release on PyPi</Massege>
+  </row>
+  <row>
+    <index>11</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>better README, mostly Python 2 compatible</commiterDate>
+    <Massege>better README, mostly Python 2 compatible</Massege>
+  </row>
+  <row>
+    <index>12</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>adding .gitignore</commiterDate>
+    <Massege>adding .gitignore</Massege>
+  </row>
+  <row>
+    <index>13</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>making sure unicode printed ok</commiterDate>
+    <Massege>making sure unicode printed ok</Massege>
+  </row>
+  <row>
+    <index>14</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>updating version number</commiterDate>
+    <Massege>updating version number</Massege>
+  </row>
+  <row>
+    <index>15</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>string conversion for Python 2 and 3</commiterDate>
+    <Massege>string conversion for Python 2 and 3</Massege>
+  </row>
+  <row>
+    <index>16</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Small tweaks to README.md</commiterDate>
+    <Massege>Small tweaks to README.md</Massege>
+  </row>
+  <row>
+    <index>17</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>README updates</commiterDate>
+    <Massege>README updates</Massege>
+  </row>
+  <row>
+    <index>18</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>reordering competitions commands</commiterDate>
+    <Massege>reordering competitions commands</Massege>
+  </row>
+  <row>
+    <index>19</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Simplify the unicode logic to avoid bare exception</commiterDate>
+    <Massege>Simplify the unicode logic to avoid bare exception</Massege>
+  </row>
+  <row>
+    <index>20</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update kaggle_api_extended.py</commiterDate>
+    <Massege>Update kaggle_api_extended.py</Massege>
+  </row>
+  <row>
+    <index>21</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>typo fix</commiterDate>
+    <Massege>typo fix</Massege>
+  </row>
+  <row>
+    <index>22</index>
+    <Commitername>dpmcna</Commitername>
+    <commiterDate>update version number</commiterDate>
+    <Massege>update version number</Massege>
+  </row>
+  <row>
+    <index>23</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)</commiterDate>
+    <Massege>Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)</Massege>
+  </row>
+  <row>
+    <index>24</index>
+    <Commitername>Timo Bozsolik</Commitername>
+    <commiterDate>API v1.1</commiterDate>
+    <Massege>API v1.1</Massege>
+  </row>
+  <row>
+    <index>25</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>metadata.json -&gt; datapackage.json</commiterDate>
+    <Massege>metadata.json -&gt; datapackage.json</Massege>
+  </row>
+  <row>
+    <index>26</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.2</commiterDate>
+    <Massege>Update API to 1.2</Massege>
+  </row>
+  <row>
+    <index>27</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Fix version</commiterDate>
+    <Massege>Fix version</Massege>
+  </row>
+  <row>
+    <index>28</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>API v1.3</commiterDate>
+    <Massege>API v1.3</Massege>
+  </row>
+  <row>
+    <index>29</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Rename LICENSE.txt to LICENSE</commiterDate>
+    <Massege>Rename LICENSE.txt to LICENSE</Massege>
+  </row>
+  <row>
+    <index>30</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Delete LICENSE</commiterDate>
+    <Massege>Delete LICENSE</Massege>
+  </row>
+  <row>
+    <index>31</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Create LICENSE</commiterDate>
+    <Massege>Create LICENSE</Massege>
+  </row>
+  <row>
+    <index>32</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README with License</commiterDate>
+    <Massege>Update README with License</Massege>
+  </row>
+  <row>
+    <index>33</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to v1.3.1</commiterDate>
+    <Massege>Update API to v1.3.1</Massege>
+  </row>
+  <row>
+    <index>34</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Add license headers</commiterDate>
+    <Massege>Add license headers</Massege>
+  </row>
+  <row>
+    <index>35</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to v1.3.2</commiterDate>
+    <Massege>Update API to v1.3.2</Massege>
+  </row>
+  <row>
+    <index>36</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to v1.3.2.1</commiterDate>
+    <Massege>Update API to v1.3.2.1</Massege>
+  </row>
+  <row>
+    <index>37</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update installation instructions</commiterDate>
+    <Massege>Update installation instructions</Massege>
+  </row>
+  <row>
+    <index>38</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README.md
+
+Fix path for download</commiterDate>
+    <Massege>Update README.md
+
+Fix path for download</Massege>
+  </row>
+  <row>
+    <index>39</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README.md
+
+Fix path where files are downloaded</commiterDate>
+    <Massege>Update README.md
+
+Fix path where files are downloaded</Massege>
+  </row>
+  <row>
+    <index>40</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README.md</commiterDate>
+    <Massege>Update README.md</Massege>
+  </row>
+  <row>
+    <index>41</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README.md</commiterDate>
+    <Massege>Update README.md</Massege>
+  </row>
+  <row>
+    <index>42</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to to 1.3.3</commiterDate>
+    <Massege>Update API to to 1.3.3</Massege>
+  </row>
+  <row>
+    <index>43</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.4</commiterDate>
+    <Massege>Update API to 1.3.4</Massege>
+  </row>
+  <row>
+    <index>44</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example</commiterDate>
+    <Massege>Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example</Massege>
+  </row>
+  <row>
+    <index>45</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.5</commiterDate>
+    <Massege>Update API to 1.3.5</Massege>
+  </row>
+  <row>
+    <index>46</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.6</commiterDate>
+    <Massege>Update API to 1.3.6</Massege>
+  </row>
+  <row>
+    <index>47</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Fix a path in a comment</commiterDate>
+    <Massege>Fix a path in a comment</Massege>
+  </row>
+  <row>
+    <index>48</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.7</commiterDate>
+    <Massege>Update API to 1.3.7</Massege>
+  </row>
+  <row>
+    <index>49</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.8</commiterDate>
+    <Massege>Update API to 1.3.8</Massege>
+  </row>
+  <row>
+    <index>50</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Warn when there is nothing to download</commiterDate>
+    <Massege>Warn when there is nothing to download</Massege>
+  </row>
+  <row>
+    <index>51</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.9</commiterDate>
+    <Massege>Update API to 1.3.9</Massege>
+  </row>
+  <row>
+    <index>52</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.9</commiterDate>
+    <Massege>Update API to 1.3.9</Massege>
+  </row>
+  <row>
+    <index>53</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.9.1</commiterDate>
+    <Massege>Update API to 1.3.9.1</Massege>
+  </row>
+  <row>
+    <index>54</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>limit urlib3's version to avoid requests issue</commiterDate>
+    <Massege>limit urlib3's version to avoid requests issue</Massege>
+  </row>
+  <row>
+    <index>55</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Add explanatory comments that show this change as interim measures.</commiterDate>
+    <Massege>Add explanatory comments that show this change as interim measures.</Massege>
+  </row>
+  <row>
+    <index>56</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.3.10</commiterDate>
+    <Massege>Update API to 1.3.10</Massege>
+  </row>
+  <row>
+    <index>57</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README</commiterDate>
+    <Massege>Update README</Massege>
+  </row>
+  <row>
+    <index>58</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>dataset_initialize should return metadata file (and not nothing)</commiterDate>
+    <Massege>dataset_initialize should return metadata file (and not nothing)</Massege>
+  </row>
+  <row>
+    <index>59</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>metadata creation needs to happen before creation</commiterDate>
+    <Massege>metadata creation needs to happen before creation</Massege>
+  </row>
+  <row>
+    <index>60</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>adding message to user that dataset creation takes time!</commiterDate>
+    <Massege>adding message to user that dataset creation takes time!</Massege>
+  </row>
+  <row>
+    <index>61</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>print of result (url) is redundant</commiterDate>
+    <Massege>print of result (url) is redundant</Massege>
+  </row>
+  <row>
+    <index>62</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>adding same message to dataset_create_new</commiterDate>
+    <Massege>adding same message to dataset_create_new</Massege>
+  </row>
+  <row>
+    <index>63</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Respect KAGGLE_CONFIG_DIR environment variable</commiterDate>
+    <Massege>Respect KAGGLE_CONFIG_DIR environment variable</Massege>
+  </row>
+  <row>
+    <index>64</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Describe usage of KAGGLE_CONFIG_DIR</commiterDate>
+    <Massege>Describe usage of KAGGLE_CONFIG_DIR</Massege>
+  </row>
+  <row>
+    <index>65</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Add .idea/ to gitignore</commiterDate>
+    <Massege>Add .idea/ to gitignore</Massege>
+  </row>
+  <row>
+    <index>66</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 3.12</commiterDate>
+    <Massege>Update API to 3.12</Massege>
+  </row>
+  <row>
+    <index>67</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.0</commiterDate>
+    <Massege>Update API to 1.4.0</Massege>
+  </row>
+  <row>
+    <index>68</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Remove .idea folder</commiterDate>
+    <Massege>Remove .idea folder</Massege>
+  </row>
+  <row>
+    <index>69</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Fix wiki references</commiterDate>
+    <Massege>Fix wiki references</Massege>
+  </row>
+  <row>
+    <index>70</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update formatting</commiterDate>
+    <Massege>Update formatting</Massege>
+  </row>
+  <row>
+    <index>71</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.1</commiterDate>
+    <Massege>Update API to 1.4.1</Massege>
+  </row>
+  <row>
+    <index>72</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.2</commiterDate>
+    <Massege>Update API to 1.4.2</Massege>
+  </row>
+  <row>
+    <index>73</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `</commiterDate>
+    <Massege>Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `</Massege>
+  </row>
+  <row>
+    <index>74</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</commiterDate>
+    <Massege>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</Massege>
+  </row>
+  <row>
+    <index>75</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Fix changelog and readme</commiterDate>
+    <Massege>Fix changelog and readme</Massege>
+  </row>
+  <row>
+    <index>76</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.3</commiterDate>
+    <Massege>Update API to 1.4.3</Massege>
+  </row>
+  <row>
+    <index>77</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Add release date to changelog</commiterDate>
+    <Massege>Add release date to changelog</Massege>
+  </row>
+  <row>
+    <index>78</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.4</commiterDate>
+    <Massege>Update API to 1.4.4</Massege>
+  </row>
+  <row>
+    <index>79</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.5</commiterDate>
+    <Massege>Update API to 1.4.5</Massege>
+  </row>
+  <row>
+    <index>80</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>just adding tweaks for authentication</commiterDate>
+    <Massege>just adding tweaks for authentication</Massege>
+  </row>
+  <row>
+    <index>81</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>more tweaks, valueerror, etc</commiterDate>
+    <Massege>more tweaks, valueerror, etc</Massege>
+  </row>
+  <row>
+    <index>82</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>adding unittest start files</commiterDate>
+    <Massege>adding unittest start files</Massege>
+  </row>
+  <row>
+    <index>83</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>tweaking spacing</commiterDate>
+    <Massege>tweaking spacing</Massege>
+  </row>
+  <row>
+    <index>84</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>next round of changes to separate config and data default directories</commiterDate>
+    <Massege>next round of changes to separate config and data default directories</Massege>
+  </row>
+  <row>
+    <index>85</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>adding subdirs back to handle multiple string paths passed into get_default_download_dir</commiterDate>
+    <Massege>adding subdirs back to handle multiple string paths passed into get_default_download_dir</Massege>
+  </row>
+  <row>
+    <index>86</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>updating tets</commiterDate>
+    <Massege>updating tets</Massege>
+  </row>
+  <row>
+    <index>87</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>updating function names to not be private, and be more clear</commiterDate>
+    <Massege>updating function names to not be private, and be more clear</Massege>
+  </row>
+  <row>
+    <index>88</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.6</commiterDate>
+    <Massege>Update API to 1.4.6</Massege>
+  </row>
+  <row>
+    <index>89</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update README.md</commiterDate>
+    <Massege>Update README.md</Massege>
+  </row>
+  <row>
+    <index>90</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>first chunk of work to add docstrings!</commiterDate>
+    <Massege>first chunk of work to add docstrings!</Massege>
+  </row>
+  <row>
+    <index>91</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>finish up docstrings</commiterDate>
+    <Massege>finish up docstrings</Massege>
+  </row>
+  <row>
+    <index>92</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.4.7.1</commiterDate>
+    <Massege>Update API to 1.4.7.1</Massege>
+  </row>
+  <row>
+    <index>93</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The command line tool supports the following commands:&#13;
+&#13;
+``` &#13;
+kaggle competitions {list,files,download,submit,submissions,leaderboard}&#13;
+kaggle datasets {list, files, download, create, version, init}&#13;
+kaggle kernels {list, init, push, pull, output, status}&#13;
+kaggle config {view, set, unset}&#13;
+```</commiterDate>
+    <Massege>Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The command line tool supports the following commands:&#13;
+&#13;
+``` &#13;
+kaggle competitions {list,files,download,submit,submissions,leaderboard}&#13;
+kaggle datasets {list, files, download, create, version, init}&#13;
+kaggle kernels {list, init, push, pull, output, status}&#13;
+kaggle config {view, set, unset}&#13;
+```</Massege>
+  </row>
+  <row>
+    <index>94</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update readme to reflect lack of python 2 support</commiterDate>
+    <Massege>Update readme to reflect lack of python 2 support</Massege>
+  </row>
+  <row>
+    <index>95</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory.</commiterDate>
+    <Massege>README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory.</Massege>
+  </row>
+  <row>
+    <index>96</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json</commiterDate>
+    <Massege>Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json</Massege>
+  </row>
+  <row>
+    <index>97</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Use field name constants</commiterDate>
+    <Massege>Use field name constants</Massege>
+  </row>
+  <row>
+    <index>98</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Adhere to 80 chars line width</commiterDate>
+    <Massege>Adhere to 80 chars line width</Massege>
+  </row>
+  <row>
+    <index>99</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update to 1.5.0</commiterDate>
+    <Massege>Update to 1.5.0</Massege>
+  </row>
+  <row>
+    <index>100</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Initial support for uploading subdirectories</commiterDate>
+    <Massege>Initial support for uploading subdirectories</Massege>
+  </row>
+  <row>
+    <index>101</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>make logging messages more consistent</commiterDate>
+    <Massege>make logging messages more consistent</Massege>
+  </row>
+  <row>
+    <index>102</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>docstring and better variable name</commiterDate>
+    <Massege>docstring and better variable name</Massege>
+  </row>
+  <row>
+    <index>103</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>fix desc</commiterDate>
+    <Massege>fix desc</Massege>
+  </row>
+  <row>
+    <index>104</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>addded command line flag</commiterDate>
+    <Massege>addded command line flag</Massege>
+  </row>
+  <row>
+    <index>105</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>update docstrings</commiterDate>
+    <Massege>update docstrings</Massege>
+  </row>
+  <row>
+    <index>106</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>update README</commiterDate>
+    <Massege>update README</Massege>
+  </row>
+  <row>
+    <index>107</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>clarify "skipping" messages</commiterDate>
+    <Massege>clarify "skipping" messages</Massege>
+  </row>
+  <row>
+    <index>108</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>adding tar mode</commiterDate>
+    <Massege>adding tar mode</Massege>
+  </row>
+  <row>
+    <index>109</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>fixed a bug with dataset creation</commiterDate>
+    <Massege>fixed a bug with dataset creation</Massege>
+  </row>
+  <row>
+    <index>110</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>fix Python 2 error: 'file' object has no attribute 'readable' (issue #115)</commiterDate>
+    <Massege>fix Python 2 error: 'file' object has no attribute 'readable' (issue #115)</Massege>
+  </row>
+  <row>
+    <index>111</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Added cert_file to configuration</commiterDate>
+    <Massege>Added cert_file to configuration</Massege>
+  </row>
+  <row>
+    <index>112</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>changed cert_file to ca_Certs</commiterDate>
+    <Massege>changed cert_file to ca_Certs</Massege>
+  </row>
+  <row>
+    <index>113</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>change ca_certs to ssl_ca_cert</commiterDate>
+    <Massege>change ca_certs to ssl_ca_cert</Massege>
+  </row>
+  <row>
+    <index>114</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>fixed CONFIG_NAME_SSL_CA_CERT not being checked</commiterDate>
+    <Massege>fixed CONFIG_NAME_SSL_CA_CERT not being checked</Massege>
+  </row>
+  <row>
+    <index>115</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Add omitted spaces in kaggle.json permissions warning</commiterDate>
+    <Massege>Add omitted spaces in kaggle.json permissions warning</Massege>
+  </row>
+  <row>
+    <index>116</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies.</commiterDate>
+    <Massege>improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies.</Massege>
+  </row>
+  <row>
+    <index>117</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.5.1.1</commiterDate>
+    <Massege>Update API to 1.5.1.1</Massege>
+  </row>
+  <row>
+    <index>118</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update Readme</commiterDate>
+    <Massege>Update Readme</Massege>
+  </row>
+  <row>
+    <index>119</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update Readme</commiterDate>
+    <Massege>Update Readme</Massege>
+  </row>
+  <row>
+    <index>120</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.5.2</commiterDate>
+    <Massege>Update API to 1.5.2</Massege>
+  </row>
+  <row>
+    <index>121</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Align docstring with actual default value</commiterDate>
+    <Massege>Align docstring with actual default value</Massege>
+  </row>
+  <row>
+    <index>122</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`</commiterDate>
+    <Massege>Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`</Massege>
+  </row>
+  <row>
+    <index>123</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Increase urllib3 version restriction</commiterDate>
+    <Massege>Increase urllib3 version restriction</Massege>
+  </row>
+  <row>
+    <index>124</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.5.3</commiterDate>
+    <Massege>Update API to 1.5.3</Massege>
+  </row>
+  <row>
+    <index>125</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Consistent whitespace in README</commiterDate>
+    <Massege>Consistent whitespace in README</Massege>
+  </row>
+  <row>
+    <index>126</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders</commiterDate>
+    <Massege>Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders</Massege>
+  </row>
+  <row>
+    <index>127</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Valid types and making kernels init more friendly</commiterDate>
+    <Massege>Valid types and making kernels init more friendly</Massege>
+  </row>
+  <row>
+    <index>128</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.5.4</commiterDate>
+    <Massege>Update API to 1.5.4</Massege>
+  </row>
+  <row>
+    <index>129</index>
+    <Commitername>Paul Rondeau</Commitername>
+    <commiterDate>release v.1.5.5</commiterDate>
+    <Massege>release v.1.5.5</Massege>
+  </row>
+  <row>
+    <index>130</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>release v.1.5.5 (#207)
+
+release v.1.5.5</commiterDate>
+    <Massege>release v.1.5.5 (#207)
+
+release v.1.5.5</Massege>
+  </row>
+  <row>
+    <index>131</index>
+    <Commitername>Rebecca Ysteboe</Commitername>
+    <commiterDate>Update API to 1.5.6</commiterDate>
+    <Massege>Update API to 1.5.6</Massege>
+  </row>
+  <row>
+    <index>132</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>turn internet on by default (#253)
+
+b/135010857</commiterDate>
+    <Massege>turn internet on by default (#253)
+
+b/135010857</Massege>
+  </row>
+  <row>
+    <index>133</index>
+    <Commitername>Jim Plotts</Commitername>
+    <commiterDate>Release v1.5.8</commiterDate>
+    <Massege>Release v1.5.8</Massege>
+  </row>
+  <row>
+    <index>134</index>
+    <Commitername>Vincent Roseberry</Commitername>
+    <commiterDate>Release v1.5.9</commiterDate>
+    <Massege>Release v1.5.9</Massege>
+  </row>
+  <row>
+    <index>135</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9</commiterDate>
+    <Massege>Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9</Massege>
+  </row>
+  <row>
+    <index>136</index>
+    <Commitername>Jim Plotts</Commitername>
+    <commiterDate>Release 1.5.10.</commiterDate>
+    <Massege>Release 1.5.10.</Massege>
+  </row>
+  <row>
+    <index>137</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update CHANGELOG.md
+
+updating changelog</commiterDate>
+    <Massege>Update CHANGELOG.md
+
+updating changelog</Massege>
+  </row>
+  <row>
+    <index>138</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update kaggle_api_extended.py
+
+update version number</commiterDate>
+    <Massege>Update kaggle_api_extended.py
+
+update version number</Massege>
+  </row>
+  <row>
+    <index>139</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update setup.py
+
+updating version number</commiterDate>
+    <Massege>Update setup.py
+
+updating version number</Massege>
+  </row>
+  <row>
+    <index>140</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update kaggle_api_extended.py
+
+add code change</commiterDate>
+    <Massege>Update kaggle_api_extended.py
+
+add code change</Massege>
+  </row>
+  <row>
+    <index>141</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update setup.py
+
+update version number</commiterDate>
+    <Massege>Update setup.py
+
+update version number</Massege>
+  </row>
+  <row>
+    <index>142</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update CHANGELOG.md
+
+update version number</commiterDate>
+    <Massege>Update CHANGELOG.md
+
+update version number</Massege>
+  </row>
+  <row>
+    <index>143</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Update kaggle_api_extended.py
+
+update version number</commiterDate>
+    <Massege>Update kaggle_api_extended.py
+
+update version number</Massege>
+  </row>
+  <row>
+    <index>144</index>
+    <Commitername>GitHub</Commitername>
+    <commiterDate>Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12</commiterDate>
+    <Massege>Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12</Massege>
+  </row>
+</data>

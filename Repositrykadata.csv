@@ -1,0 +1,276 @@
+,Commitername,commiterDate,Massege
+0,Daniel McNamara,first Kaggle API commit,first Kaggle API commit
+1,GitHub,Adding documentation,Adding documentation
+2,GitHub,Fixing character escapes in Readme,Fixing character escapes in Readme
+3,GitHub,Updating directory references,Updating directory references
+4,GitHub,Updating installation info,Updating installation info
+5,GitHub,Print warning message if user has unsafe permissions on api key,Print warning message if user has unsafe permissions on api key
+6,GitHub,"Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions","Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions"
+7,Daniel McNamara,"client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems","client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems"
+8,Daniel McNamara,"client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md","client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md"
+9,dpmcna,Merge branch 'master' of https://github.com/Kaggle/kaggle-api,Merge branch 'master' of https://github.com/Kaggle/kaggle-api
+10,dpmcna,preparing Python package for release on PyPi,preparing Python package for release on PyPi
+11,dpmcna,"better README, mostly Python 2 compatible","better README, mostly Python 2 compatible"
+12,dpmcna,adding .gitignore,adding .gitignore
+13,dpmcna,making sure unicode printed ok,making sure unicode printed ok
+14,dpmcna,updating version number,updating version number
+15,dpmcna,string conversion for Python 2 and 3,string conversion for Python 2 and 3
+16,GitHub,Small tweaks to README.md,Small tweaks to README.md
+17,GitHub,README updates,README updates
+18,dpmcna,reordering competitions commands,reordering competitions commands
+19,GitHub,Simplify the unicode logic to avoid bare exception,Simplify the unicode logic to avoid bare exception
+20,GitHub,Update kaggle_api_extended.py,Update kaggle_api_extended.py
+21,dpmcna,typo fix,typo fix
+22,dpmcna,update version number,update version number
+23,GitHub,"Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)","Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)"
+24,Timo Bozsolik,API v1.1,API v1.1
+25,GitHub,metadata.json -> datapackage.json,metadata.json -> datapackage.json
+26,Rebecca Ysteboe,Update API to 1.2,Update API to 1.2
+27,GitHub,Fix version,Fix version
+28,Rebecca Ysteboe,API v1.3,API v1.3
+29,Rebecca Ysteboe,Rename LICENSE.txt to LICENSE,Rename LICENSE.txt to LICENSE
+30,Rebecca Ysteboe,Delete LICENSE,Delete LICENSE
+31,Rebecca Ysteboe,Create LICENSE,Create LICENSE
+32,Rebecca Ysteboe,Update README with License,Update README with License
+33,Rebecca Ysteboe,Update API to v1.3.1,Update API to v1.3.1
+34,Rebecca Ysteboe,Add license headers,Add license headers
+35,Rebecca Ysteboe,Update API to v1.3.2,Update API to v1.3.2
+36,Rebecca Ysteboe,Update API to v1.3.2.1,Update API to v1.3.2.1
+37,Rebecca Ysteboe,Update installation instructions,Update installation instructions
+38,Rebecca Ysteboe,"Update README.md
+
+Fix path for download","Update README.md
+
+Fix path for download"
+39,Rebecca Ysteboe,"Update README.md
+
+Fix path where files are downloaded","Update README.md
+
+Fix path where files are downloaded"
+40,Rebecca Ysteboe,Update README.md,Update README.md
+41,Rebecca Ysteboe,Update README.md,Update README.md
+42,Rebecca Ysteboe,Update API to to 1.3.3,Update API to to 1.3.3
+43,Rebecca Ysteboe,Update API to 1.3.4,Update API to 1.3.4
+44,Rebecca Ysteboe,"Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example","Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example"
+45,Rebecca Ysteboe,Update API to 1.3.5,Update API to 1.3.5
+46,Rebecca Ysteboe,Update API to 1.3.6,Update API to 1.3.6
+47,Rebecca Ysteboe,Fix a path in a comment,Fix a path in a comment
+48,Rebecca Ysteboe,Update API to 1.3.7,Update API to 1.3.7
+49,Rebecca Ysteboe,Update API to 1.3.8,Update API to 1.3.8
+50,Rebecca Ysteboe,Warn when there is nothing to download,Warn when there is nothing to download
+51,Rebecca Ysteboe,Update API to 1.3.9,Update API to 1.3.9
+52,Rebecca Ysteboe,Update API to 1.3.9,Update API to 1.3.9
+53,Rebecca Ysteboe,Update API to 1.3.9.1,Update API to 1.3.9.1
+54,Rebecca Ysteboe,limit urlib3's version to avoid requests issue,limit urlib3's version to avoid requests issue
+55,Rebecca Ysteboe,Add explanatory comments that show this change as interim measures.,Add explanatory comments that show this change as interim measures.
+56,Rebecca Ysteboe,Update API to 1.3.10,Update API to 1.3.10
+57,Rebecca Ysteboe,Update README,Update README
+58,Rebecca Ysteboe,dataset_initialize should return metadata file (and not nothing),dataset_initialize should return metadata file (and not nothing)
+59,Rebecca Ysteboe,metadata creation needs to happen before creation,metadata creation needs to happen before creation
+60,Rebecca Ysteboe,adding message to user that dataset creation takes time!,adding message to user that dataset creation takes time!
+61,Rebecca Ysteboe,print of result (url) is redundant,print of result (url) is redundant
+62,Rebecca Ysteboe,adding same message to dataset_create_new,adding same message to dataset_create_new
+63,Rebecca Ysteboe,Respect KAGGLE_CONFIG_DIR environment variable,Respect KAGGLE_CONFIG_DIR environment variable
+64,Rebecca Ysteboe,Describe usage of KAGGLE_CONFIG_DIR,Describe usage of KAGGLE_CONFIG_DIR
+65,Rebecca Ysteboe,Add .idea/ to gitignore,Add .idea/ to gitignore
+66,Rebecca Ysteboe,Update API to 3.12,Update API to 3.12
+67,Rebecca Ysteboe,Update API to 1.4.0,Update API to 1.4.0
+68,Rebecca Ysteboe,Remove .idea folder,Remove .idea folder
+69,Rebecca Ysteboe,Fix wiki references,Fix wiki references
+70,Rebecca Ysteboe,Update formatting,Update formatting
+71,Rebecca Ysteboe,Update API to 1.4.1,Update API to 1.4.1
+72,Rebecca Ysteboe,Update API to 1.4.2,Update API to 1.4.2
+73,Rebecca Ysteboe,"Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `","Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `"
+74,Rebecca Ysteboe,Merge branch 'master' of https://github.com/Kaggle/kaggle-api,Merge branch 'master' of https://github.com/Kaggle/kaggle-api
+75,Rebecca Ysteboe,Fix changelog and readme,Fix changelog and readme
+76,Rebecca Ysteboe,Update API to 1.4.3,Update API to 1.4.3
+77,Rebecca Ysteboe,Add release date to changelog,Add release date to changelog
+78,Rebecca Ysteboe,Update API to 1.4.4,Update API to 1.4.4
+79,Rebecca Ysteboe,Update API to 1.4.5,Update API to 1.4.5
+80,Rebecca Ysteboe,just adding tweaks for authentication,just adding tweaks for authentication
+81,Rebecca Ysteboe,"more tweaks, valueerror, etc","more tweaks, valueerror, etc"
+82,Rebecca Ysteboe,adding unittest start files,adding unittest start files
+83,Rebecca Ysteboe,tweaking spacing,tweaking spacing
+84,Rebecca Ysteboe,next round of changes to separate config and data default directories,next round of changes to separate config and data default directories
+85,Rebecca Ysteboe,adding subdirs back to handle multiple string paths passed into get_default_download_dir,adding subdirs back to handle multiple string paths passed into get_default_download_dir
+86,Rebecca Ysteboe,updating tets,updating tets
+87,Rebecca Ysteboe,"updating function names to not be private, and be more clear","updating function names to not be private, and be more clear"
+88,Rebecca Ysteboe,Update API to 1.4.6,Update API to 1.4.6
+89,Rebecca Ysteboe,Update README.md,Update README.md
+90,Rebecca Ysteboe,first chunk of work to add docstrings!,first chunk of work to add docstrings!
+91,Rebecca Ysteboe,finish up docstrings,finish up docstrings
+92,Rebecca Ysteboe,Update API to 1.4.7.1,Update API to 1.4.7.1
+93,Rebecca Ysteboe,"Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:
+
+
+
+
+The command line tool supports the following commands:
+
+``` 
+kaggle competitions {list,files,download,submit,submissions,leaderboard}
+kaggle datasets {list, files, download, create, version, init}
+kaggle kernels {list, init, push, pull, output, status}
+kaggle config {view, set, unset}
+```","Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:
+
+
+
+
+The command line tool supports the following commands:
+
+``` 
+kaggle competitions {list,files,download,submit,submissions,leaderboard}
+kaggle datasets {list, files, download, create, version, init}
+kaggle kernels {list, init, push, pull, output, status}
+kaggle config {view, set, unset}
+```"
+94,GitHub,Update readme to reflect lack of python 2 support,Update readme to reflect lack of python 2 support
+95,Rebecca Ysteboe,"README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory.","README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory."
+96,Rebecca Ysteboe,"Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json","Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json"
+97,Rebecca Ysteboe,Use field name constants,Use field name constants
+98,Rebecca Ysteboe,Adhere to 80 chars line width,Adhere to 80 chars line width
+99,Rebecca Ysteboe,Update to 1.5.0,Update to 1.5.0
+100,Rebecca Ysteboe,Initial support for uploading subdirectories,Initial support for uploading subdirectories
+101,Rebecca Ysteboe,make logging messages more consistent,make logging messages more consistent
+102,Rebecca Ysteboe,docstring and better variable name,docstring and better variable name
+103,Rebecca Ysteboe,fix desc,fix desc
+104,Rebecca Ysteboe,addded command line flag,addded command line flag
+105,Rebecca Ysteboe,update docstrings,update docstrings
+106,Rebecca Ysteboe,update README,update README
+107,Rebecca Ysteboe,"clarify ""skipping"" messages","clarify ""skipping"" messages"
+108,Rebecca Ysteboe,adding tar mode,adding tar mode
+109,Rebecca Ysteboe,fixed a bug with dataset creation,fixed a bug with dataset creation
+110,Rebecca Ysteboe,fix Python 2 error: 'file' object has no attribute 'readable' (issue #115),fix Python 2 error: 'file' object has no attribute 'readable' (issue #115)
+111,Rebecca Ysteboe,Added cert_file to configuration,Added cert_file to configuration
+112,Rebecca Ysteboe,changed cert_file to ca_Certs,changed cert_file to ca_Certs
+113,Rebecca Ysteboe,change ca_certs to ssl_ca_cert,change ca_certs to ssl_ca_cert
+114,Rebecca Ysteboe,fixed CONFIG_NAME_SSL_CA_CERT not being checked,fixed CONFIG_NAME_SSL_CA_CERT not being checked
+115,Rebecca Ysteboe,Add omitted spaces in kaggle.json permissions warning,Add omitted spaces in kaggle.json permissions warning
+116,Rebecca Ysteboe,"improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies.","improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies."
+117,Rebecca Ysteboe,Update API to 1.5.1.1,Update API to 1.5.1.1
+118,Rebecca Ysteboe,Update Readme,Update Readme
+119,Rebecca Ysteboe,Update Readme,Update Readme
+120,Rebecca Ysteboe,Update API to 1.5.2,Update API to 1.5.2
+121,Rebecca Ysteboe,Align docstring with actual default value,Align docstring with actual default value
+122,Rebecca Ysteboe,"Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`","Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`"
+123,Rebecca Ysteboe,Increase urllib3 version restriction,Increase urllib3 version restriction
+124,Rebecca Ysteboe,Update API to 1.5.3,Update API to 1.5.3
+125,Rebecca Ysteboe,Consistent whitespace in README,Consistent whitespace in README
+126,Rebecca Ysteboe,"Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders","Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders"
+127,Rebecca Ysteboe,Valid types and making kernels init more friendly,Valid types and making kernels init more friendly
+128,Rebecca Ysteboe,Update API to 1.5.4,Update API to 1.5.4
+129,Paul Rondeau,release v.1.5.5,release v.1.5.5
+130,GitHub,"release v.1.5.5 (#207)
+
+release v.1.5.5","release v.1.5.5 (#207)
+
+release v.1.5.5"
+131,Rebecca Ysteboe,Update API to 1.5.6,Update API to 1.5.6
+132,GitHub,"turn internet on by default (#253)
+
+b/135010857","turn internet on by default (#253)
+
+b/135010857"
+133,Jim Plotts,Release v1.5.8,Release v1.5.8
+134,Vincent Roseberry,Release v1.5.9,Release v1.5.9
+135,GitHub,"Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9","Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9"
+136,Jim Plotts,Release 1.5.10.,Release 1.5.10.
+137,GitHub,"Update CHANGELOG.md
+
+updating changelog","Update CHANGELOG.md
+
+updating changelog"
+138,GitHub,"Update kaggle_api_extended.py
+
+update version number","Update kaggle_api_extended.py
+
+update version number"
+139,GitHub,"Update setup.py
+
+updating version number","Update setup.py
+
+updating version number"
+140,GitHub,"Update kaggle_api_extended.py
+
+add code change","Update kaggle_api_extended.py
+
+add code change"
+141,GitHub,"Update setup.py
+
+update version number","Update setup.py
+
+update version number"
+142,GitHub,"Update CHANGELOG.md
+
+update version number","Update CHANGELOG.md
+
+update version number"
+143,GitHub,"Update kaggle_api_extended.py
+
+update version number","Update kaggle_api_extended.py
+
+update version number"
+144,GitHub,"Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12","Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12"
